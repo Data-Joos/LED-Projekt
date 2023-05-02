@@ -5,8 +5,8 @@ I detta projekt handlade om att fördjupa sina kunskapar samt öka förståelsen
 Utförande involverar att med kod utveckla en lösning för STM32-Plattformen där vi kan hantera LED med UART-Protokollet. 
 Projektet har skett i programmeringsspråket C.
 
-Filstruktur
-Dagbok - pdf med dagbok över de arbetande dagarna
-Hårdvara - Aktuella dokument för STM32 samt pdf med instruktioner för slutuppgiften.
-Kod - main.c, stm32f4xx.h, LED.c, LED.h, UART.c och UART.h
-Rapport - Inkluderar inledning, dagbok, resultat samt källhänvisningar.
+Filstruktur <br/>
+Dagbok - pdf med dagbok över de arbetande dagarna <br/>
+Hårdvara - Aktuella dokument för STM32 samt pdf med instruktioner för slutuppgiften. <br/>
+Kod - main.c, stm32f4xx.h, LED.c, LED.h, UART.c och UART.h. <br/>
+Rapport - Inkluderar inledning, dagbok, resultat samt källhänvisningar. <br/>
